@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/joy016.github.io/Fetch-movies/static/css/main.c66f0786.css",
+    "main.js": "/joy016.github.io/Fetch-movies/static/js/main.3b0f7c18.js",
+    "static/js/787.6a7addb0.chunk.js": "/joy016.github.io/Fetch-movies/static/js/787.6a7addb0.chunk.js",
+    "index.html": "/joy016.github.io/Fetch-movies/index.html",
+    "main.c66f0786.css.map": "/joy016.github.io/Fetch-movies/static/css/main.c66f0786.css.map",
+    "main.3b0f7c18.js.map": "/joy016.github.io/Fetch-movies/static/js/main.3b0f7c18.js.map",
+    "787.6a7addb0.chunk.js.map": "/joy016.github.io/Fetch-movies/static/js/787.6a7addb0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c66f0786.css",
+    "static/js/main.3b0f7c18.js"
+  ]
+}
