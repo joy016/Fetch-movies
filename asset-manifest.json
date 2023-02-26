@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/joy016.github.io/Fetch-movies/static/css/main.c66f0786.css",
-    "main.js": "/joy016.github.io/Fetch-movies/static/js/main.3b0f7c18.js",
-    "static/js/787.6a7addb0.chunk.js": "/joy016.github.io/Fetch-movies/static/js/787.6a7addb0.chunk.js",
-    "index.html": "/joy016.github.io/Fetch-movies/index.html",
-    "main.c66f0786.css.map": "/joy016.github.io/Fetch-movies/static/css/main.c66f0786.css.map",
-    "main.3b0f7c18.js.map": "/joy016.github.io/Fetch-movies/static/js/main.3b0f7c18.js.map",
-    "787.6a7addb0.chunk.js.map": "/joy016.github.io/Fetch-movies/static/js/787.6a7addb0.chunk.js.map"
+    "main.css": "/Fetch-movies/static/css/main.c66f0786.css",
+    "main.js": "/Fetch-movies/static/js/main.10542113.js",
+    "static/js/787.6a7addb0.chunk.js": "/Fetch-movies/static/js/787.6a7addb0.chunk.js",
+    "index.html": "/Fetch-movies/index.html",
+    "main.c66f0786.css.map": "/Fetch-movies/static/css/main.c66f0786.css.map",
+    "main.10542113.js.map": "/Fetch-movies/static/js/main.10542113.js.map",
+    "787.6a7addb0.chunk.js.map": "/Fetch-movies/static/js/787.6a7addb0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c66f0786.css",
-    "static/js/main.3b0f7c18.js"
+    "static/js/main.10542113.js"
   ]
 }
